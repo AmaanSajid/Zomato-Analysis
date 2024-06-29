@@ -1,4 +1,4 @@
-Created by NL Supraja
+Created by Amaan Sajid Shaik
 Technologies used for this projects are:
 Database: sqlite3, Backend: FastAPI and frontend : React JS
 
